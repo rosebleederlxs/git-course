@@ -1,3 +1,3 @@
 # git-course
 
-testing git. Edited in local repo.
+actual line that was needed
